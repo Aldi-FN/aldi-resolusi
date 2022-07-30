@@ -2,5 +2,5 @@ ALDI RESOLUSI
 -Konsisten dalam belajar flutter di dicoding 3x seminggu
 -Membuat aplikasi kalkulator berat badan ideal dengan GUI yang menarik menggunakan framework flutter
 -Lebih baik dan lebih hemat dalam mengelola keuangan
--Bisa menjaga pola hidup sehat
 -Makan makanan yang bergizi
+-Mulai membuat konten sosial media ataupun blog
